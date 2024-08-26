@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/LightDotSo/LightDotSo/main/assets/github.png)
+![](https://assets.light.so/social/github.png)
